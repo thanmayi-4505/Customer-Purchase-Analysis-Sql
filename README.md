@@ -17,13 +17,13 @@ This project analyzes customer purchases using SQL.
 ## Project Screenshots
 
 ### Total Revenue
-![Total Revenue](total_revenue.png)
+![Total Revenue](total_revenue.png.png)
 
 ### Top Customer
-![Top Customer](top_customer.png)
+![Top Customer](top_customer.png.png)
 
 ### Customer Orders
-![Customer Orders](customer_orders.png)
+![Customer Orders](customer_orders.png.png)
 
 ## Author
 Karachi Thanmayi
